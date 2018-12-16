@@ -34,7 +34,7 @@ en:
         contribution_chargedback: Support challenge for project %{project_name}
         subscription_payment_chargedback: Support challenge for project %{project_name}
         balance_expired: Refund not required within 90 days. See <a target='__blank'
-          href='https://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos#reembolso90dias'>our
+          href='https://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos#reembolso90dias'>our
           policy</a>
         contribution_refunded_after_successful_pledged: Project repayment %{project_name}
         subscription_payment_refunded: Project repayment %{project_name}
@@ -126,8 +126,8 @@ en:
       index:
         contribution_date: Date of support
         current_credits_html: Your current balance is <span id="current_credits">%{credits}</span> in credits.
-        important_html: To know all the working rules of refund, <a href='http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos'
-          target='_blank'>click here</a> . Any questions, please visit our <a href='http://suporte.trendnotion.com'
+        important_html: To know all the working rules of refund, <a href='http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos'
+          target='_blank'>click here</a> . Any questions, please visit our <a href='http://suporte.trendnotion.com:3000'
           target='_blank'>support</a> .
         project: Project
         refunded: Request confirmed. We will contact you within 4 days.

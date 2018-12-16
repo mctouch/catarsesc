@@ -83,7 +83,7 @@ const publish = {
                             m('.w-col.w-col-6', [
                                 m('.u-marginbottom-30.fontsize-base', [
                                     m('div', [m('span.fontweight-semibold', 'Título: '), project.name]),
-                                    m('div', [m('span.fontweight-semibold', 'Link: '), `www.trendnotion.com/${project.permalink}`]),
+                                    m('div', [m('span.fontweight-semibold', 'Link: '), `www.trendnotion.com:3000/${project.permalink}`]),
                                     m('div', [m('span.fontweight-semibold', 'Modalidade de financiamento: '), window.I18n.t(project.mode, I18nScope())]),
                                     (project.mode !== 'sub' ?
                                         m('div', [m('span.fontweight-semibold', 'Meta de arrecadação: '), `R$ ${h.formatNumber(project.goal, 2, 3)}`]) :
@@ -111,7 +111,7 @@ const publish = {
                             m('.w-row', [
                                 m('.w-col.w-col-2'),
                                 m('.w-col.w-col-8', [
-                                    m('.fontsize-small', ['Antes de publicar, clique nos círculos abaixo e confirme que você está ciente de como funciona o Catarse. Qualquer dúvida, ', m('a.alt-link[href="http://suporte.trendnotion.com/hc/pt-br/requests/new"][target="_blank"]', 'entre em contato'), '!'])
+                                    m('.fontsize-small', ['Antes de publicar, clique nos círculos abaixo e confirme que você está ciente de como funciona o Catarse. Qualquer dúvida, ', m('a.alt-link[href="http://suporte.trendnotion.com:3000/hc/pt-br/requests/new"][target="_blank"]', 'entre em contato'), '!'])
                                 ]),
                                 m('.w-col.w-col-2')
                             ])

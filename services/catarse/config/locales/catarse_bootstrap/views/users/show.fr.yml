@@ -43,7 +43,7 @@ fr:
       index:
         contribution_date: "Date du don"
         current_credits_html: "Votre solde actuel est de <span id=\"current_credits\">%{credits}</span> en crédits."
-        important_html: "Pour connaitre toute les règles de remboursement, <a href='http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Règles de remboursement- reprises' target='_blank'>clique aqui</a>. Une question ? Visitez notre <a href='http://suporte.trendnotion.com' target='_blank'>soutien</a>."
+        important_html: "Pour connaitre toute les règles de remboursement, <a href='http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Règles de remboursement- reprises' target='_blank'>clique aqui</a>. Une question ? Visitez notre <a href='http://suporte.trendnotion.com:3000' target='_blank'>soutien</a>."
         project: Projeto
         refunded: "Demande confirmer. Nous vous contacterons dans un délai de 4 jours ouvrés."
         insufficient_credits: "Vous ne disposez pas de crédit suffisant pour réaliser cette reprise. "

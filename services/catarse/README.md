@@ -12,7 +12,7 @@ The first crowdfunding platform from Brazil
 Welcome to Catarse's source code repository.
 Our goal with opening the source code is to stimulate the creation of a community of developers around a high-quality crowdfunding platform.
 
-You can see the software in action in http://trendnotion.com.
+You can see the software in action in http://trendnotion.com:3000.
 The official repo is https://github.com/catarse/catarse
 
 ## Getting started
@@ -105,7 +105,7 @@ If you want to create a payment engine, please join our mailing list at http://g
 
   List of payment enginees that are being developed or need to be developed further
 
-    https://github.com/catarse/catarse_pagarme (payment engine used by trendnotion.com)
+    https://github.com/catarse/catarse_pagarme (payment engine used by trendnotion.com:3000)
     https://github.com/devton/catarse_paypal_express (currently out of date and not maintained)
     https://github.com/sushant12/CatarseStripe (just starting to be developed and needs extra hands -- please pitch in...)
 

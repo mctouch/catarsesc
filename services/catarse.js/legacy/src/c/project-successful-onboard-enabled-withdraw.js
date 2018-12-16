@@ -29,7 +29,7 @@ const projectSuccessfulEnabledWithdraw = {
                             I18n.t('text_1', I18nScope()),
                             m('span.fontweight-semibold', I18n.t('text_2', I18nScope())),
                             I18n.t('text_3', I18nScope()),
-                            m('a.alt-link.fontweight-semibold[href=\'https://suporte.trendnotion.com/hc/pt-br/articles/217916143\'][target=\'_blank\']',
+                            m('a.alt-link.fontweight-semibold[href=\'https://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143\'][target=\'_blank\']',
                                 I18n.t('text_4', I18nScope())
                             )
                         ]),

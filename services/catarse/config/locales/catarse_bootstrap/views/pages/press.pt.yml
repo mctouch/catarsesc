@@ -25,4 +25,4 @@ pt:
         cta_html: "Baixe nossas marcas &gt;" 
       email:
         title: "Quer falar com a gente?"
-        cta: "comunicacao@trendnotion.com"
+        cta: "comunicacao@trendnotion.com:3000"

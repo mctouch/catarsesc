@@ -203,7 +203,7 @@ const dashboardRewardCard = {
                 m('.w-form',
                     m('.w-col.w-col-6',
                         m.component(copyTextInput, {
-                            value: `https://www.trendnotion.com/pt/projects/${project.project_id}/${isSubscription ? 'subscriptions/start' : 'contributions/new'}?reward_id=${reward.id()}`
+                            value: `https://www.trendnotion.com:3000/pt/projects/${project.project_id}/${isSubscription ? 'subscriptions/start' : 'contributions/new'}?reward_id=${reward.id()}`
                         }),
                     )
                 ),

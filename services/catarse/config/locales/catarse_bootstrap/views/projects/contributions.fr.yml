@@ -43,7 +43,7 @@ fr:
         payment_save_card: 'Enregistrer ma carte de crédits pour faciliter les prochains dons'
         reward_sold_out: 'Cette récompense n’est plus disponible. Entrer un nouveau don.'
         page-title: Vous soutenez %{name}
-        credits_preview_html: "Vous possedez <strong>%{credits}</strong> en credits pour réaliser ce don <strong>jusqu’au 10/11</strong>, selon <a href='http://blog.trendnotion.com/simplificacao-dos-reembolsos-e-o-fim-dos-creditos/' target='__blank'>novas regras</a> divulgadas pelo Catarse."
+        credits_preview_html: "Vous possedez <strong>%{credits}</strong> en credits pour réaliser ce don <strong>jusqu’au 10/11</strong>, selon <a href='http://blog.trendnotion.com:3000/simplificacao-dos-reembolsos-e-o-fim-dos-creditos/' target='__blank'>novas regras</a> divulgadas pelo Catarse."
         credits_submit: 'Effectuer le paiement'
         credits_title: 'Paiement par crédits'
         insufficient_credits: "Vous possédez %{credits} en crédits. Cela n’est pas suffisent pour effectuer le paiement, choisissez un autre mode de paiement."

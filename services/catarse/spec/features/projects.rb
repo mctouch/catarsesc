@@ -11,8 +11,8 @@ RSpec.describe 'Projects', type: :feature do
     RoutingFilter.active = true
   end
   before do
-    CatarseSettings[:base_url] = 'http://trendnotion.com'
-    CatarseSettings[:api_host] = 'https://api.trendnotion.com'
+    CatarseSettings[:base_url] = 'http://trendnotion.com:3000'
+    CatarseSettings[:api_host] = 'https://api.trendnotion.com:3000'
     CatarseSettings[:company_name] = 'Catarse'
   end
 

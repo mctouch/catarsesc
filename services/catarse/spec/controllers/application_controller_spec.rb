@@ -5,7 +5,7 @@ require 'rails_helper'
 
 RSpec.describe ApplicationController, type: :controller do
   let(:params) { { ref: 'foo' } }
-  let(:referrer) { 'http://www.trendnotion.com' }
+  let(:referrer) { 'http://www.trendnotion.com:3000' }
 
   before do
     request.env['HTTP_REFERER'] = referrer
@@ -77,7 +77,7 @@ RSpec.describe ApplicationController, type: :controller do
     end
 
     context 'when we still have a referral link in session and the ref params is nil and referrer is internal' do
-      let(:referrer) { 'http://www.trendnotion.com' }
+      let(:referrer) { 'http://www.trendnotion.com:3000' }
       let(:initial_session_value) { 'test' }
       let(:initial_origin_value) { 'http://www.foo.bar' }
       let(:params) { { ref: nil } }
@@ -92,7 +92,7 @@ RSpec.describe ApplicationController, type: :controller do
     end
 
     context 'when we still have a referral link in session and ref params and referrer is internal' do
-      let(:referrer) { 'http://www.trendnotion.com' }
+      let(:referrer) { 'http://www.trendnotion.com:3000' }
       let(:initial_session_value) { 'test' }
       let(:initial_origin_value) { 'http://www.foo.bar' }
       let(:params) { { ref: 'testado' } }

@@ -4,12 +4,12 @@
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-		<loc>http://static.trendnotion.com/sitemaps/sitemap.xml.gz</loc>
+		<loc>http://static.trendnotion.com:3000/sitemaps/sitemap.xml.gz</loc>
 	</sitemap>
 	<sitemap>
-		<loc>http://blog.trendnotion.com/sitemap.xml</loc>
+		<loc>http://blog.trendnotion.com:3000/sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>http://test.trendnotion.com/sitemap.xml</loc>
+		<loc>http://test.trendnotion.com:3000:3000/sitemap.xml</loc>
 	</sitemap>
 </sitemapindex>

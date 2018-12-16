@@ -152,7 +152,7 @@ const projectInsights = {
                                             project.mode === 'flex' && _.isNull(project.expires_at) && project.state !== 'draft' ? 
                                                 m('span', [
                                                     m.trust(window.I18n.t('finish_explanation', I18nScope())),
-                                                    m('a.alt-link[href="http://suporte.trendnotion.com/hc/pt-br/articles/213783503-tudo-sobre-Prazo-da-campanha"][target="_blank"]', window.I18n.t('know_more', I18nScope()))
+                                                    m('a.alt-link[href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/213783503-tudo-sobre-Prazo-da-campanha"][target="_blank"]', window.I18n.t('know_more', I18nScope()))
                                                 ]) : 
                                                 m.trust(
                                                     window.I18n.t(`campaign.${project.mode}.${project.state}`, 

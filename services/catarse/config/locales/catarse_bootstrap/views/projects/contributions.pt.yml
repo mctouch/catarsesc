@@ -40,7 +40,7 @@ pt:
         title: "O Catarse não é uma loja."
         subtitle: "Apoiar um projeto é acreditar e confiar no potencial dele se tornar realidade."
         info: "A execução da proposta e a entrega das recompensas é de responsabilidade exclusiva do(a) realizador(a) do projeto."
-        link: http://suporte.trendnotion.com/hc/pt-br/articles/115002214043-Responsabilidades-e-Seguran%C3%A7a
+        link: http://suporte.trendnotion.com:3000/hc/pt-br/articles/115002214043-Responsabilidades-e-Seguran%C3%A7a
         link_label: "Saiba sobre Responsabilidades e Segurança"
       shipping_options:
         national: "Somente para o Brasil"
@@ -227,7 +227,7 @@ pt:
           save_card: 'Quero salvar meu cartão de crédito para facilitar apoios futuros.'
           finish_payment: 'Finalizar pagamento'
           terms_of_use_agreement: 'Ao apoiar, você concorda com os <a class="alt-link" target="_blank" href="/pt/terms-of-use">Termos de Uso</a> e <a class="alt-link" target="_blank" href="/pt/privacy-policy">Política de Privacidade</a>.'
-          terms_of_use_agreement_sub: 'Ao apoiar, você concorda com os <a class="alt-link" target="_blank" href="/pt/terms-of-use">Termos de Uso</a>, <a class="alt-link" target="_blank" href="https://suporte.trendnotion.com/hc/pt-br/articles/115005588243">Regras do Catarse Assinaturas</a> e <a class="alt-link" target="_blank" href="/pt/privacy-policy">Política de Privacidade</a>.'
+          terms_of_use_agreement_sub: 'Ao apoiar, você concorda com os <a class="alt-link" target="_blank" href="/pt/terms-of-use">Termos de Uso</a>, <a class="alt-link" target="_blank" href="https://suporte.trendnotion.com:3000/hc/pt-br/articles/115005588243">Regras do Catarse Assinaturas</a> e <a class="alt-link" target="_blank" href="/pt/privacy-policy">Política de Privacidade</a>.'
         subscription_edit: 'Confirmar alterações na assinatura'
         invoice_none: 'Nenhuma'
         pay_slip: 'Imprimir Boleto'
@@ -280,7 +280,7 @@ pt:
         payment_save_card: 'Quero salvar meu cartão de crédito para facilitar apoios futuros.'
         reward_sold_out: Essa recompensa está esgotada. Inicie um novo apoio.
         page-title: Apoie o %{name}
-        credits_preview_html: "Você possui <strong>%{credits}</strong> em créditos para realizar esse apoio <strong>até o dia 10/11</strong>, conforme <a href='http://blog.trendnotion.com/simplificacao-dos-reembolsos-e-o-fim-dos-creditos/' target='__blank'>novas regras</a> divulgadas pelo Catarse."
+        credits_preview_html: "Você possui <strong>%{credits}</strong> em créditos para realizar esse apoio <strong>até o dia 10/11</strong>, conforme <a href='http://blog.trendnotion.com:3000/simplificacao-dos-reembolsos-e-o-fim-dos-creditos/' target='__blank'>novas regras</a> divulgadas pelo Catarse."
         credits_submit: 'Efetuar pagamento'
         credits_title: 'Pagamento com créditos'
         insufficient_credits: "Você possui %{credits} em créditos. Esse valor não é suficiente para realizar o apoio, por favor escolha outro meio de pagamento."

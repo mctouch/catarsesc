@@ -20,7 +20,7 @@ en:
             title: Welcome!
             description: Fill in the information below to start the draft of your project.
         info:
-          permalink: http://trendnotion.com/
+          permalink: http://trendnotion.com:3000/
           goal: R$
           online_days: days
         submit: Save and continue

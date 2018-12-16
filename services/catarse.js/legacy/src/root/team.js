@@ -7,7 +7,7 @@ const team = {
         return m('#static-team-app', [
             m('.w-section.hero-who.hero-full', [
                 m('.w-container.u-text-center', [
-                    m('img.icon-hero[src="https://trendnotion.com/assets/logo-yellow.png"]'),
+                    m('img.icon-hero[src="https://trendnotion.com:3000/assets/logo-yellow.png"]'),
                     m('.u-text-center.u-marginbottom-20.fontsize-largest',
                       'Conheça nosso time')
                 ])

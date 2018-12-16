@@ -20,7 +20,7 @@ class UpdateUsersFullTextIndex < ActiveRecord::Migration
         EXECUTE PROCEDURE public.update_users_full_text_index();
 
       UPDATE public.users SET
-        email = coalesce(email, 'contato+user' || id::text || '@trendnotion.com');
+        email = coalesce(email, 'contato+user' || id::text || '@trendnotion.com:3000');
       ALTER TABLE public.users ALTER email SET NOT NULL;
       ALTER TABLE public.users ALTER full_text_index SET NOT NULL;
     SQL

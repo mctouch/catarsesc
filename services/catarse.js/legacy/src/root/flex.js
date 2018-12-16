@@ -14,11 +14,11 @@ const Flex = {
             l = m.prop(),
             sample3 = _.partial(_.sample, _, 3),
             builder = {
-                customAction: 'http://fazum.trendnotion.com/obrigado-landing-catarse-flex'
+                customAction: 'http://fazum.trendnotion.com:3000/obrigado-landing-catarse-flex'
             },
             addDisqus = (el, isInitialized) => {
                 if (!isInitialized) {
-                    h.discuss('https://trendnotion.com/flex', 'flex_page');
+                    h.discuss('https://trendnotion.com:3000/flex', 'flex_page');
                 }
             },
             flexVM = catarse.filtersVM({
@@ -184,13 +184,13 @@ const Flex = {
                                     m('.w-col.w-col-6.w-col-small-6.w-col-tiny-6.w-sub-col-middle', [
                                         m('div', [
                                             m('img.icon-share-mobile[src=\'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/53a3f66e05eb6144171d8edb_facebook-xxl.png\']'),
-                                            m(`a.w-button.btn.btn-large.btn-fb[href="http://www.facebook.com/sharer/sharer.php?u=https://www.trendnotion.com/flex?ref=facebook&title=${encodeURIComponent('Conheça o novo Catarse Flex!')}"][target="_blank"]`, 'Compartilhar')
+                                            m(`a.w-button.btn.btn-large.btn-fb[href="http://www.facebook.com/sharer/sharer.php?u=https://www.trendnotion.com:3000/flex?ref=facebook&title=${encodeURIComponent('Conheça o novo Catarse Flex!')}"][target="_blank"]`, 'Compartilhar')
                                         ])
                                     ]),
                                     m('.w-col.w-col-6.w-col-small-6.w-col-tiny-6', [
                                         m('div', [
                                             m('img.icon-share-mobile[src=\'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/53a3f65105eb6144171d8eda_twitter-256.png\']'),
-                                            m(`a.w-button.btn.btn-large.btn-tweet[href="https://twitter.com/intent/tweet?text=${encodeURIComponent('Vamos construir uma nova modalidade de crowdfunding para o Catarse! Junte-se a nós, inscreva seu email!')}https://www.trendnotion.com/flex?ref=twitter"][target="_blank"]`, 'Tuitar')
+                                            m(`a.w-button.btn.btn-large.btn-tweet[href="https://twitter.com/intent/tweet?text=${encodeURIComponent('Vamos construir uma nova modalidade de crowdfunding para o Catarse! Junte-se a nós, inscreva seu email!')}https://www.trendnotion.com:3000/flex?ref=twitter"][target="_blank"]`, 'Tuitar')
                                         ])
                                     ])
                                 ])

@@ -242,7 +242,7 @@ en:
           3:
             question: Does Catarse select projects that go on the air?
             answer: No. You create your draft and publish your campaign directly through
-              the site, whenever you want. However, there are some <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202387638-Diretrizes-para-cria%C3%A7%C3%A3o-de-projetos">rules
+              the site, whenever you want. However, there are some <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202387638-Diretrizes-para-cria%C3%A7%C3%A3o-de-projetos">rules
               for creating projects</a> that you must follow so that your project
               has no risk of being reported by the community after publication.
           4:
@@ -262,7 +262,7 @@ en:
               financing mode, affectionately called &quot;Flex&quot;, you get all
               the money you can get regardless of hitting the target or not. You can
               better understand the difference between the models and what is the
-              ideal for your project in this <a href="http://fazum.trendnotion.com/tudoounada-ou-flex?ref=ctrse_start">eBook
+              ideal for your project in this <a href="http://fazum.trendnotion.com:3000/tudoounada-ou-flex?ref=ctrse_start">eBook
               we prepare.</a>
           2:
             question: What are our rates?
@@ -272,7 +272,7 @@ en:
               anything. <br><br> In the Flex model, Catarse charges 13% of the total
               collected by the campaign. If the project does not collect anything,
               there will be no charge. <br><br> If you want to know why we charge
-              this commission and where we invest our money, check out our <a href="http://test.trendnotion.com/nossa-taxa?ref=ctrse_start">special
+              this commission and where we invest our money, check out our <a href="http://test.trendnotion.com:3000:3000/nossa-taxa?ref=ctrse_start">special
               (and transparent!) Page talking about our rate.</a>
           3:
             question: Where does the money from my project come from?
@@ -286,8 +286,8 @@ en:
               campaign.
           4:
             question: I have more doubts. How do I do?
-            answer: '<a href="http://suporte.trendnotion.com/hc/pt-br">Access our Support
-              Center</a> or contact us by email: contato@trendnotion.com'
+            answer: '<a href="http://suporte.trendnotion.com:3000/hc/pt-br">Access our Support
+              Center</a> or contact us by email: contato@trendnotion.com:3000'
       form:
         title: I want to start a campaign called
         select_default: Select a category
@@ -307,10 +307,10 @@ en:
         sub:
           info: You get monthly payments from your fan base and followers.
           info_2: Beta version. Launch in 2018.
-          more_link: <a href="https://test.trendnotion.com/assinaturas?ref=catarse_start_beta"
+          more_link: <a href="https://test.trendnotion.com:3000:3000/assinaturas?ref=catarse_start_beta"
             class="alt-link" target-"_blank">know more</a>
         tax_info: 'Rate: 13% on total collected'
         failed_info: Campaigns All or Nothing that do not reach the goal do not pay
           anything.
-        more_link: <a href="http://fazum.trendnotion.com/tudoounada-ou-flex?utm_source=start&utm_medium=link&utm_content=Saiba%20mais%20sobre%20as%20taxas%20e%20modalidades&utm_campaign=ebook-tudoounada-flex"
+        more_link: <a href="http://fazum.trendnotion.com:3000/tudoounada-ou-flex?utm_source=start&utm_medium=link&utm_content=Saiba%20mais%20sobre%20as%20taxas%20e%20modalidades&utm_campaign=ebook-tudoounada-flex"
           class="alt-link" target-"_blank">Learn more about rates and modalities</a>

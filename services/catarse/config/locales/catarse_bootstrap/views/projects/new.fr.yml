@@ -24,7 +24,7 @@ fr:
             description: "Remplissez les informations ci-dessous pour commencer la conception de votre projet."
 
         info:
-          permalink: https://www.trendnotion.com
+          permalink: https://www.trendnotion.com:3000
           goal: €
           online_days: jours
 

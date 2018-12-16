@@ -27,9 +27,9 @@ RSpec.describe CommonModels::Origin, type: :model do
 
     context 'with ref' do
       context 'when referral already exists into database with the same origin domain' do
-        let(:domain) { 'www.trendnotion.com' }
+        let(:domain) { 'www.trendnotion.com:3000' }
         let(:referral) { 'explore' }
-        let!(:origin) { create(:origin, platform: platform, domain: 'trendnotion.com', referral: referral) }
+        let!(:origin) { create(:origin, platform: platform, domain: 'trendnotion.com:3000', referral: referral) }
         it 'should return the already created origin' do
           is_expected.to eq origin
         end

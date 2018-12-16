@@ -1,6 +1,6 @@
 class ChangeContributionsPayerEmailNull < ActiveRecord::Migration
   def change
-    execute "UPDATE contributions SET payer_email = (SELECT coalesce(email, 'usuario+sem+email@trendnotion.com') FROM users u WHERE u.id = contributions.user_id) WHERE payer_email IS NULL;"
+    execute "UPDATE contributions SET payer_email = (SELECT coalesce(email, 'usuario+sem+email@trendnotion.com:3000') FROM users u WHERE u.id = contributions.user_id) WHERE payer_email IS NULL;"
     change_column_null :contributions, :payer_email, false
   end
 end

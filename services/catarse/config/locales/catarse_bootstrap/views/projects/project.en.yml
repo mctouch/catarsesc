@@ -14,56 +14,56 @@ en:
           title: <img src="https://daks2k3a4ib2z.cloudfront.net/573a70f6d5c3cb6532f8b1a7/59c3980fd03bd6000107e99c_logo-assinaturas.png" width="400">
           subtitle: Connect with your fans and receive payments every month on our
             recurring funding platform.
-          link: https://test.trendnotion.com/subscriptions?utm_source=catarse&amp;utm_medium=banner_home_1&amp;utm_campaign=qualified_leads_from_home
+          link: https://test.trendnotion.com:3000:3000/subscriptions?utm_source=catarse&amp;utm_medium=banner_home_1&amp;utm_campaign=qualified_leads_from_home
           cta: know more
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-assinaturas.jpg
         3:
           title: '2001: A Space Odyssey - 50 years'
           subtitle: A historical book commemorating the 50th anniversary of the classic
             sci-fi.
-          link: https://www.trendnotion.com/2001?ref=home_banner
+          link: https://www.trendnotion.com:3000/2001?ref=home_banner
           cta: Know the project
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-2001.jpg
         4:
           title: LEGENDS | Chiaroscuro Studios Yearbook 2018
           subtitle: 50 characters of folklore in the line of great Brazilian comics
             of the present time.
-          link: https://www.trendnotion.com/lendas?ref=home_banner
+          link: https://www.trendnotion.com:3000/lendas?ref=home_banner
           cta: Know the project
           image: spanish.cl
         5:
           title: Arcane Sally and Mr. Steam
           subtitle: Agents of the Crown, dangerous mathematical theories of Lewis
             Carroll and the supernatural in the Victorian Era.
-          link: https://www.trendnotion.com/arcanesally?ref=home_banner
+          link: https://www.trendnotion.com:3000/arcanesally?ref=home_banner
           cta: Know the project
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-arcanesally.jpg
         6:
           title: One Night in L'Enfer
           subtitle: Van Gogh meets Paul Gauguin, Gustav Klimt and Toulouse Lautrec
             in the sinister Cabaret de L'Enfer.
-          link: https://www.trendnotion.com/lenfer?ref=home_banner
+          link: https://www.trendnotion.com:3000/lenfer?ref=home_banner
           cta: Know the project
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-lenfer.jpg
         7:
           title: Barbed wire
           subtitle: Leadership is murdered every year and you do not know. We need
             to talk about it!
-          link: https://www.trendnotion.com/aramefarpado?ref=home_banner
+          link: https://www.trendnotion.com:3000/aramefarpado?ref=home_banner
           cta: Know the project
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-aramefarpado.jpg
         8:
           title: <img src="https://uploads-ssl.webflow.com/573a70f6d5c3cb6532f8b1a7/58ead3167db7c241dbb93fbc_geek-news-logo.png" width="400">
           subtitle: Comics, boardgames, RPGs and digital games, inside and outside
             the Catarse.
-          link: https://test.trendnotion.com/geek-news
+          link: https://test.trendnotion.com:3000:3000/geek-news
           cta: Subscribe to Geek News
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-geek-news.jpg
         9:
           title: Collective funding for Books and Magazines
           subtitle: Join a community of authors and publishers and publish your independent
             book with the help of readers
-          link: https://test.trendnotion.com/publicacoes-independentes-cofinanciero?ref=home_banner
+          link: https://test.trendnotion.com:3000:3000/publicacoes-independentes-cofinanciero?ref=home_banner
           cta: know more
           image: https://s3.amazonaws.com/cdn.catarse/assets/banner-home-landing-publicacoes.jpg
     new_feature_badge: Novelty
@@ -99,10 +99,10 @@ en:
         text_link: Know more.
       tooltip: Tell us where your project came from. Learn how to use this table and
         better plan your communication actions
-      finish_explanation: Your campaign is still with the collection deadline open. In order to receive the funds in your bank account, you must set an end date for collection. Learn more about <a href="http://suporte.trendnotion.com/hc/pt-br/articles/213783503-tudo-sobre-Prazo-da-campanha">setting a deadline</a> and how the <a href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143-tudo-sobre-REPASSE" target="blank">transfer process works.</a>
+      finish_explanation: Your campaign is still with the collection deadline open. In order to receive the funds in your bank account, you must set an end date for collection. Learn more about <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/213783503-tudo-sobre-Prazo-da-campanha">setting a deadline</a> and how the <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143-tudo-sobre-REPASSE" target="blank">transfer process works.</a>
       know_more: Know more.
       has_cancelation_request_explanation: Your campaign has been canceled for you.
-        Within 24 hours, it will expire and your <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos"
+        Within 24 hours, it will expire and your <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos"
         target="__blank">supporters will be reimbursed</a> .
       referral:
         ctrse_explore: Catarse Search
@@ -154,31 +154,31 @@ en:
           origin: Source
           contributions: Support
           amount: R $ supported (% of total)
-        help_url: https://suporte.trendnotion.com/hc/en/articles/115002214463-Project-online-support-and-divulga%C3%A3o#origem-apoio
+        help_url: https://suporte.trendnotion.com:3000/hc/en/articles/115002214463-Project-online-support-and-divulga%C3%A3o#origem-apoio
       campaign_title: My Campaign
       campaign:
         aon:
           online: You can receive support until 23:55:59 on the day %{expires_at}.
             Remember, it's all-or-nothing and you'll only take the funds raised
-            if you hit your financial goal within that time frame. <a href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143-tudo-sobre-REPASSE"
+            if you hit your financial goal within that time frame. <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143-tudo-sobre-REPASSE"
             target="blank">Learn more about how the transfer process works.</a>
           successful: <span class="fontweight-semibold"> %{username} celebrate what
             you deserve!</span> Your project was successful and now is the time to
             start working with your supporters! Special attention to the delivery
             of rewards. Prometheus? Delivered! Be sure to look at the post-project
             section of <a class="alt-link" href="/guides">the Directors Guide</a>
-            and find out <a class="alt-link" href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143"
+            and find out <a class="alt-link" href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143"
             target="_blank">how the money transfer will be made</a> .
           waiting_funds: <span class="fontweight-semibold"> %{username} <span>we're
             processing the last payments! Your campaign has been finalized at %{expires_at}
             and is awaiting the latest support payments confirmations. Due to the
             expiration date of tickets, projects that had last-minute endorsements
             stay for up to 4 business days with the status &quot;Waiting&quot;. <a
-            href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143" target="blank">Understand
+            href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143" target="blank">Understand
             how the money transfer is made.</a></span></span>
           failed: <span class="fontweight-semibold"> %{username} Do not be discouraged!</span>
             your project was not funded :-( But do not be discouraged! Take the process
-            as learning and plan a new campaign. <br/> <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos"
+            as learning and plan a new campaign. <br/> <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos"
             target="blank">Also understand how we make rebates and refunds from your
             supporters.</a>
           rejected: <span class="fontweight-semibold"> %{username}, this project has
@@ -203,23 +203,23 @@ en:
             fill in the necessary data in the <a class="alt-link" href="#user_settings">Account</a>
             tab. It is important to know that we charge the rate of 13% of the total
             amount collected only for successful projects. Understand <a class="alt-link"
-            href="http://suporte.trendnotion.com/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-"
+            href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202037493-FINANCIADO-Como-ser%C3%A1-feito-o-repasse-do-dinheiro-"
             target="_blank">how we pass the money</a> .
         flex:
           online: You can receive support until 23:55:59 on the day %{expires_at}.
-            Understand how the <a href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143"
-            target="blank">resource transfer</a> flow works <a href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143"
+            Understand how the <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143"
+            target="blank">resource transfer</a> flow works <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143"
             target="blank">after the end of your campaign.</a>
           successful: <span class="fontweight-semibold"> %{username} celebrate what
             you deserve!</span> Your project was successful and now is the time to
             start working with your supporters! Special attention to the delivery
             of rewards. Prometheus? Delivered! Be sure to look at the post-project
             section of <a class="alt-link" href="/guides">the Directors Guide</a>
-            and find out <a class="alt-link" href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143"
+            and find out <a class="alt-link" href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143"
             target="_blank">how the money transfer will be made</a> .
           failed: <span class="fontweight-semibold"> %{username} Do not be discouraged!</span>
             your project was not funded :-( But do not be discouraged! Take the process
-            as learning and plan a new campaign. <br/> <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos"
+            as learning and plan a new campaign. <br/> <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos"
             target="blank">Also understand how we make rebates and refunds from your
             supporters.</a>
           waiting_funds: <span class="fontweight-semibold"> %{username} <span>we're
@@ -227,7 +227,7 @@ en:
             is waiting for the latest support payment confirmations. Due to the expiration
             date of tickets, projects that had last-minute endorsements stay for up
             to 4 business days with the status &quot;Waiting&quot;. Understand how
-            the <a href="http://suporte.trendnotion.com/hc/pt-br/articles/217916143" target="blank">money
+            the <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/217916143" target="blank">money
             transfer is made.</a></span></span>
           rejected: <span class="fontweight-semibold"> %{username}, this project has
             been canceled. If you have any questions about the reason for the cancellation,

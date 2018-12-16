@@ -194,7 +194,7 @@ const adminProjectDetail = {
                         'Detalhes do projeto'
                     ),
                     m('.fontsize-smallest.fontweight-semibold.u-marginbottom-20',
-                        `trendnotion.com/${item.permalink}`
+                        `trendnotion.com:3000/${item.permalink}`
                     ),
                     m('.fontsize-smallest.lineheight-looser.u-marginbottom-20', [
                         m('span.fontweight-semibold',

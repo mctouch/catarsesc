@@ -43,12 +43,12 @@ pt:
       explore_categories:
         16:
           icon: "https://s3.amazonaws.com/cdn.catarse/assets/icon-music.png"
-          link: "http://test.trendnotion.com/financiamento-coletivo-musica-independente"
+          link: "http://test.trendnotion.com:3000:3000/financiamento-coletivo-musica-independente"
           title: "Lance sua música no Catarse!"
           cta: "Aprenda como"
         20:
           icon: "https://s3.amazonaws.com/cdn.catarse/assets/icon-publicacoes.png"
-          link: "https://test.trendnotion.com/publicacoes-independentes-financiamento-coletivo"
+          link: "https://test.trendnotion.com:3000:3000/publicacoes-independentes-financiamento-coletivo"
           title: "Lance seu livro ou revista no Catarse!"
           cta: "Aprenda como"
       links:

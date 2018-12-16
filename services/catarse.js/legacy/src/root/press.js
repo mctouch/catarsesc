@@ -85,7 +85,7 @@ const press = {
                                     m('.fontsize-smaller', m.trust(window.I18n.t('stats.money_html', I18nScope())))
                                 ])
                             ]),
-                            m('a.alt-link.fontsize-large[href=\'https://www.trendnotion.com/dbhero/dataclips/fa0d3570-9fa7-4af3-b070-2b2e386ef060\'][target=\'_blank\']', [
+                            m('a.alt-link.fontsize-large[href=\'https://www.trendnotion.com:3000/dbhero/dataclips/fa0d3570-9fa7-4af3-b070-2b2e386ef060\'][target=\'_blank\']', [
                                 m.trust(window.I18n.t('stats.cta_html', I18nScope()))
                             ])
                         ])
@@ -106,7 +106,7 @@ const press = {
                     ),
                     m('.w-row',
                         m('.w-col.w-col-4.w-col-push-4.u-text-center',
-                            m('a.alt-link.fontsize-large[href=\'https://www.trendnotion.com/assets\'][target=\'_blank\']', [
+                            m('a.alt-link.fontsize-large[href=\'https://www.trendnotion.com:3000/assets\'][target=\'_blank\']', [
                                 m.trust(window.I18n.t('assets.cta_html', I18nScope()))
                             ])
                         )
@@ -120,7 +120,7 @@ const press = {
                     ),
                     m('.w-row', [
                         m('.w-col.w-col-3',
-                            m('a.btn.btn-dark.btn-large.u-marginbottom-10[href=\'https://www.facebook.com/trendnotion.com\'][target=\'_blank\']', [
+                            m('a.btn.btn-dark.btn-large.u-marginbottom-10[href=\'https://www.facebook.com/trendnotion.com:3000\'][target=\'_blank\']', [
                                 m('span.fa.fa-facebook'),
                                 ' Facebook'
                             ])
@@ -138,7 +138,7 @@ const press = {
                             ])
                         ),
                         m('.w-col.w-col-3',
-                            m('a.btn.btn-dark.btn-large.u-marginbottom-10[href=\'http://blog.trendnotion.com/\'][target=\'_blank\']', [
+                            m('a.btn.btn-dark.btn-large.u-marginbottom-10[href=\'http://blog.trendnotion.com:3000/\'][target=\'_blank\']', [
                                 m('span.fa.fa-rss'),
                                 ' Blog do Catarse'
                             ])

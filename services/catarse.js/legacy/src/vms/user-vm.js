@@ -144,7 +144,7 @@ const displayName = (user) => {
 };
 
 const displayImage = (user) => {
-    const defaultImg = 'https://trendnotion.com/assets/catarse_bootstrap/user.jpg';
+    const defaultImg = 'https://trendnotion.com:3000/assets/catarse_bootstrap/user.jpg';
 
     if (user) {
         return user.profile_img_thumbnail || defaultImg;

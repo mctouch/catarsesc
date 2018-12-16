@@ -106,15 +106,15 @@ en:
         1:
           title: 'Reward Description and Title:'
           description: They help contributors understand what you are offering. Be objective
-            and transparent! Learn in this article <a href="http://suporte.trendnotion.com/hc/pt-br/articles/212191546-Recompensas-realizadores-#o-que-oferecer"
+            and transparent! Learn in this article <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/212191546-Recompensas-realizadores-#o-que-oferecer"
             target="_blank" class="alt-link">what you can and can not offer</a> and
-            get inspired with <a href="http://blog.trendnotion.com/mais-de-30-ideias-de-recompensa-para-seu-crowdfunding/"
+            get inspired with <a href="http://blog.trendnotion.com:3000/mais-de-30-ideias-de-recompensa-para-seu-crowdfunding/"
             target="_blank" class="alt-link">rewards ideas</a> .
         2:
           title: 'Reward value:'
           description: Indicates how much the contributor must contribute to receive
             the reward. Try to offer a fair and realistic value. To help you set these
-            values, we recommend the <a href="http://blog.trendnotion.com/meta-crowdfunding-calculadora-orcamento/"
+            values, we recommend the <a href="http://blog.trendnotion.com:3000/meta-crowdfunding-calculadora-orcamento/"
             target="_blank" class="alt-link">Budget Calculator</a> .
         3:
           title: 'Delivery forecast:'
@@ -125,12 +125,12 @@ en:
           title: 'Type of delivery:'
           description: How will the reward be sent and how much will it cost to the
             contributor. If you add a freight value, it will be added when the contributor
-            selects the reward and locale. <a href="http://blog.trendnotion.com/o-calculo-de-envio-de-recompensas-financiamento-coletivo/"
+            selects the reward and locale. <a href="http://blog.trendnotion.com:3000/o-calculo-de-envio-de-recompensas-financiamento-coletivo/"
             target="_blank" class="alt-link">Learn More</a> .
         5:
           title: 'Number of rewards:'
           description: You can also limit a reward to a certain number of contributions
-            and change the order that the rewards appear in your project. <a href="http://suporte.trendnotion.com/hc/pt-br/articles/212191546-tudo-sobre-RECOMPENSAS#como-editar"
+            and change the order that the rewards appear in your project. <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/212191546-tudo-sobre-RECOMPENSAS#como-editar"
             target="_blank" class="alt-link">Learn More</a> .
       minimum_value_title: For $%{minimum_value} or more
       minimum_value_subscription_title: $%{minimum_value} per month
@@ -186,7 +186,7 @@ en:
       title: Questionnaires
       subtitle: Please check your contributors' delivery addresses and ask other
         questions related to your rewards.
-      help_link: Learn how to use <a href="https://suporte.trendnotion.com/hc/pt-br/articles/115003402146-Question%C3%A1rios-Como-envi%C3%A1-los-aos-seus-apoiadores"
+      help_link: Learn how to use <a href="https://suporte.trendnotion.com:3000/hc/pt-br/articles/115003402146-Question%C3%A1rios-Como-envi%C3%A1-los-aos-seus-apoiadores"
         target="_blank" class="alt-link">Questionnaires in rewards management!</a>
       online_explanation: Since your project has not yet been finalized, you can only
         submit questionnaires to out-of-pocket rewards. After completing the project,
@@ -195,7 +195,7 @@ en:
     dashboard_fiscal:
       title: Fiscal documents
       subtitle: Download the tax documents related to your collection.
-      help_link: If you are uncertain about taxation, see our Article on <a href="http://fazum.trendnotion.com/manual-tributacao-realizadores"
+      help_link: If you are uncertain about taxation, see our Article on <a href="http://fazum.trendnotion.com:3000/manual-tributacao-realizadores"
         target="_blank" class="alt-link">Taxation for Directors</a>
       nodoc_explanation: You will have access to tax documents as soon as your project
         is finalized and funded successfully.
@@ -207,7 +207,7 @@ en:
         to make an informed decision about which modality most closely approximates
         the relationship between your project and its contributors .
     dashboard_contribution_reports:
-      help_link: Learn how to use the Support <a href="https://suporte.trendnotion.com/hc/pt-br/articles/115003361423-Relat%C3%B3rio-de-apoios"
+      help_link: Learn how to use the Support <a href="https://suporte.trendnotion.com:3000/hc/pt-br/articles/115003361423-Relat%C3%B3rio-de-apoios"
         target="_blank" class="alt-link">Report!</a>
       title: Support report
       subtitle_html: Track the contributions made to your campaign and manage the delivery
@@ -416,7 +416,7 @@ en:
         project proposes. Do not forget to include administrative fees in your calculation.
       goal_taxes_link: Understand Catarse rates
       goal_taxes_label: Catarse Fees
-      goal_taxes_watch_video_html: <a class="fontsize-small" href="http://fazum.trendnotion.com/agradecimento-video-tutorial-orcamento-basico"
+      goal_taxes_watch_video_html: <a class="fontsize-small" href="http://fazum.trendnotion.com:3000/agradecimento-video-tutorial-orcamento-basico"
         target="_blank">Watch our <span class="fontweight-bold">Basic Budget video
         lesson</span></a>
       goal_aon_taxes_hint: It is the amount that will be deducted from your collection
@@ -473,7 +473,7 @@ en:
         a captivating description!</a>
       description_video_alert: <span class="fa fa-lightbulb-o"></span> Learn how to
         <a href="https://catarse.attach.io/BJmQVOiR" target="_blank" class="alt-link">create
-        a captivating description</a> and see examples <a href="http://test.trendnotion.com/videomakers?ref=ctrse_dashboard_video"
+        a captivating description</a> and see examples <a href="http://test.trendnotion.com:3000:3000/videomakers?ref=ctrse_dashboard_video"
         target="_blank">of successful videos</a> on Catarse!
     dashboard_reward:
       submit: To save
@@ -535,7 +535,7 @@ en:
       submit: To save
       budget_label: Project budget
       budget_alert: <span class="fa fa-fw fa-lightbulb-o"></span> See tips on how
-        to <a class="alt-link" href="http://fazum.trendnotion.com/agradecimento-video-tutorial-orcamento-basico?ref=ctrse_dashboard"
+        to <a class="alt-link" href="http://fazum.trendnotion.com:3000/agradecimento-video-tutorial-orcamento-basico?ref=ctrse_dashboard"
         target="_blank">determine the goal of your project!</a>
     dashboard_card:
       submit: To save
@@ -555,7 +555,7 @@ en:
       video_label: Project video
       video_hint: Link to Vimeo or Youtube. This is the main video for your campaign.
       video_alert: <span class="fa fa-fw fa-lightbulb-o"></span> See examples of <a
-        class="alt-link" href="http://test.trendnotion.com/videomakers?ref=ctrse_dashboard_video"
+        class="alt-link" href="http://test.trendnotion.com:3000:3000/videomakers?ref=ctrse_dashboard_video"
         target="_blank">successful videos on Catarse!</a>
       aon:
         card_label: Video
@@ -620,7 +620,7 @@ en:
               card used by the contributor and should appear as credit on up to 2 invoices.
               <br/> Supports made with boleto bancário: the value has already been
               transferred to the BOND of the contributor so that he realizes the service.
-              <br/> <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos"
+              <br/> <a href="http://suporte.trendnotion.com:3000/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos"
               target="blank">(know more)</a>'
           paid:
             label: Refund not started
@@ -659,7 +659,7 @@ en:
         icon: https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c350c5e7d136a016bc34a4_transfer-ok-icon.png
         title: Bank transfer in progress
         text: "The transfer of $%{total_amount} will be made to the Bank account %{bank_name}, Agency: %{agency}, Account: %{account}. If you have any problems,
-          we'll get back to you via email %{user_email}. <br/><br/> <a href='http://fazum.trendnotion.com/calculadora-repasse'
+          we'll get back to you via email %{user_email}. <br/><br/> <a href='http://fazum.trendnotion.com:3000/calculadora-repasse'
           target='blank'>Here is</a> how to calculate the date the money should
           enter your account!"
       error_account:

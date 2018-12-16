@@ -778,7 +778,7 @@ const
             permalink = project.permalink;
         }
 
-        return `https://www.trendnotion.com/${permalink}`;
+        return `https://www.trendnotion.com:3000/${permalink}`;
     },
     isHome = () => {
         const path = window.location.pathname;

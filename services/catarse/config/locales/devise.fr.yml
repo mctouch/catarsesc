@@ -78,7 +78,7 @@ fr:
         google_warning_html: "Si vous utilisiez un compte <strong>Google</strong>:"
         google_step_1: "1 – Cliquez ici %{link}"
         google_step_2: "2 – Suivez les prochaines étapes pour créer un nouveau mot de passe."
-        with_another_social_subtitle: "<a target=\"_blank\" href=\"http://blog.trendnotion.com/mudanca-no-sistema-de-login/\">Lire ce document</a> Pour plus d’information"
+        with_another_social_subtitle: "<a target=\"_blank\" href=\"http://blog.trendnotion.com:3000/mudanca-no-sistema-de-login/\">Lire ce document</a> Pour plus d’information"
       signed_in: ''
       #signed_in: Connexion effectué avec succès.
       signed_out: ''

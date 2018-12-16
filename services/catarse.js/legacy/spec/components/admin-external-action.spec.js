@@ -64,7 +64,7 @@ describe('adminExternalAction', () => {
             it('should call a submit function on form submit', () => {
                 $output.trigger('form', 'submit');
                 const lastRequest = jasmine.Ajax.requests.mostRecent();
-                expect(lastRequest.url).toEqual('https://api.trendnotion.com/reloadAction');
+                expect(lastRequest.url).toEqual('https://api.trendnotion.com:3000/reloadAction');
             });
         });
     });

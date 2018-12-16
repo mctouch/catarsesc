@@ -63,7 +63,7 @@ window.CatarseAnalytics = window.CatarseAnalytics || (function(){
       var UUID=function(){for(var dec2hex=[],i=0;15>=i;i++)dec2hex[i]=i.toString(16);return function(){for(var uuid="",i=1;36>=i;i++)uuid+=9===i||14===i||19===i||24===i?"-":15===i?4:20===i?dec2hex[4*Math.random()|8]:dec2hex[15*Math.random()|0];return uuid}}();
       sid=UUID();
     }
-    cookie.set('ctrse_sid',sid,180,'/',false,'.trendnotion.com');
+    cookie.set('ctrse_sid',sid,180,'/',false,'.trendnotion.com:3000');
     return sid;
   })(monster);
 
@@ -135,7 +135,7 @@ window.CatarseAnalytics = window.CatarseAnalytics || (function(){
       }
       //fazemos o _time aqui por causa da verificação acima !o._time, indicando q foi criado agora.
       o._time=new Date().getTime();
-      cookie.set('ctrse_origin',JSON.stringify(o),180,'/',false,'.trendnotion.com');
+      cookie.set('ctrse_origin',JSON.stringify(o),180,'/',false,'.trendnotion.com:3000');
       return o;
     })(_actualRequest,monster);
   } catch(e) {
