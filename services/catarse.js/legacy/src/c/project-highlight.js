@@ -37,12 +37,12 @@ const projectHighlight = {
                     ),
                     project().permalink ? m.component(facebookButton, {
                         class: isSub ? 'btn-terciary-negative' : null,
-                        url: `https://www.catarse.me/${project().permalink}?ref=facebook&utm_source=facebook.com&utm_medium=social&utm_campaign=project_share`
+                        url: `https://www.trendnotion.com/${project().permalink}?ref=facebook&utm_source=facebook.com&utm_medium=social&utm_campaign=project_share`
                     }) : '',
                     project().permalink ? m.component(facebookButton, {
                         class: isSub ? 'btn-terciary-negative' : null,
                         messenger: true,
-                        url: `https://www.catarse.me/${project().permalink}?ref=facebook&utm_source=facebook.com&utm_medium=messenger&utm_campaign=project_share`
+                        url: `https://www.trendnotion.com/${project().permalink}?ref=facebook&utm_source=facebook.com&utm_medium=messenger&utm_campaign=project_share`
                     }) : '',
                     m('button#more-share.btn.btn-inline.btn-medium.btn-terciary', {
                         class: isSub ? 'btn-terciary-negative' : null,

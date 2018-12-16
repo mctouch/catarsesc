@@ -28,6 +28,7 @@ services:
       cluster:
         ipv4_address: 10.0.1.40
 
+
   catarse_redis:
     image: redis
     volumes:
@@ -55,6 +56,7 @@ services:
     networks:
       cluster:
         ipv4_address: 10.0.1.42
+        
 
   catarse_moments_db:
     image: library/postgres:10.3-alpine
@@ -89,6 +91,7 @@ services:
     networks:
       cluster:
         ipv4_address: 10.0.1.43
+          
 
   # service just for apply migrations or seed
   migrations:
@@ -155,6 +158,7 @@ services:
     command: ["./scripts/subscription_scheduler.js"]
     volumes:
       - ./services/payment-service-api/:/usr/app
+        /usr/app/node_modules/
     links:
       - "service_core_db:service_core_db"
     depends_on:
@@ -172,6 +176,7 @@ services:
     command: ["npm", "start", "server.js"]
     volumes:
       - ./services/hook-service-api/:/usr/app
+        /usr/app/node_modules
     links:
       - "service_core_db:service_core_db"
     depends_on:

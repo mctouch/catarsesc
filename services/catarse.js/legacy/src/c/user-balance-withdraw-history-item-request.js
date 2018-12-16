@@ -35,7 +35,7 @@ const userBalanceWithdrawHistoryItemRequest = {
             transferred: '.badge-success'
         };
 
-        const contactUrl = 'https://suporte.catarse.me/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.catarse.me%2Fhc%2Fpt-br%2Frequests%2Fnew&amp;locale=19';
+        const contactUrl = 'https://suporte.trendnotion.com/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.trendnotion.com%2Fhc%2Fpt-br%2Frequests%2Fnew&amp;locale=19';
 
         const initialStateInfoRender = [
             m('span.fa.fa-clock-o', m.trust('&nbsp;')),

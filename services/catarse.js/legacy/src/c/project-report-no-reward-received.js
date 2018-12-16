@@ -84,7 +84,7 @@ const projectReportNoRewardReceived = {
 							                       m('br'),
 							                       'Veja',
 							                       m('a.alt-link', {
-                           href: 'https://suporte.catarse.me/hc/pt-br/articles/360000149946-Ainda-n%C3%A3o-recebi-minha-recompensa-E-agora-',
+                           href: 'https://suporte.trendnotion.com/hc/pt-br/articles/360000149946-Ainda-n%C3%A3o-recebi-minha-recompensa-E-agora-',
                            target: '_blank'
                        }, ' aqui '),
 							                       'outras dicas sobre como acompanhar essa entrega.'

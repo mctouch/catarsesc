@@ -6,8 +6,8 @@ require 'rails_helper'
 RSpec.describe ProjectsController, type: :controller do
   before do
     allow(controller).to receive(:current_user).and_return(current_user)
-    request.env['HTTP_REFERER'] = 'https://catarse.me'
-    CatarseSettings[:base_url] = 'http://catarse.me'
+    request.env['HTTP_REFERER'] = 'https://trendnotion.com'
+    CatarseSettings[:base_url] = 'http://trendnotion.com'
     CatarseSettings[:email_projects] = 'foo@bar.com'
   end
 

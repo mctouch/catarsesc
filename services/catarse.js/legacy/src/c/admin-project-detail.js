@@ -194,7 +194,7 @@ const adminProjectDetail = {
                         'Detalhes do projeto'
                     ),
                     m('.fontsize-smallest.fontweight-semibold.u-marginbottom-20',
-                        `catarse.me/${item.permalink}`
+                        `trendnotion.com/${item.permalink}`
                     ),
                     m('.fontsize-smallest.lineheight-looser.u-marginbottom-20', [
                         m('span.fontweight-semibold',

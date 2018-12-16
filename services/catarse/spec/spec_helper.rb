@@ -91,7 +91,7 @@ RSpec.configure do |config|
     CatarseSettings[:email_contact] = 'foo@bar.com'
     CatarseSettings[:email_payments] = 'foo@bar.com'
     CatarseSettings[:email_projects] = 'foo@bar.com'
-    CatarseSettings[:email_system] = 'system@catarse.me'
+    CatarseSettings[:email_system] = 'system@trendnotion.com'
     CatarseSettings[:company_name] = 'Foo Bar Company'
     CatarseSettings[:timezone] = ActiveSupport::TimeZone.find_tzinfo(timezone).name
     CatarseSettings[:jwt_secret] = 'gZH75aKtMN3Yj0iPS4hcgUuTwjAzZr9C'

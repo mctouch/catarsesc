@@ -29,9 +29,9 @@ Catarse::Application.routes.draw do
       get '/', to: 'users#show'
     end
 
-    get '/amigos' => redirect('http://crowdfunding.catarse.me/amigos')
-    get '/criadores' => redirect('http://crowdfunding.catarse.me/criadores')
-    get '/paratodos' => redirect('http://crowdfunding.catarse.me/paratodos')
+    get '/amigos' => redirect('http://test.trendnotion.com/amigos')
+    get '/criadores' => redirect('http://test.trendnotion.com/criadores')
+    get '/paratodos' => redirect('http://test.trendnotion.com/paratodos')
 
     get '/support_forum' => 'zendesk_sessions#create', as: :zendesk_session_create
     get '/posts' => 'application#get_blog_posts'
@@ -164,20 +164,20 @@ Catarse::Application.routes.draw do
       end
     end
 
-    get '/terms-of-use' => redirect('https://crowdfunding.catarse.me/legal/termos-de-uso')
-    get '/privacy-policy' => redirect('https://crowdfunding.catarse.me/legal/politica-de-privacidade')
-    get '/start' => redirect('https://crowdfunding.catarse.me/comece')
-    get '/start-sub' => redirect('https://crowdfunding.catarse.me/comece')
+    get '/terms-of-use' => redirect('https://test.trendnotion.com/legal/termos-de-uso')
+    get '/privacy-policy' => redirect('https://test.trendnotion.com/legal/politica-de-privacidade')
+    get '/start' => redirect('https://test.trendnotion.com/comece')
+    get '/start-sub' => redirect('https://test.trendnotion.com/comece')
     get '/jobs' => 'high_voltage/pages#show', id: 'jobs'
     get '/hello' => redirect('/start')
-    get '/press' => redirect('https://crowdfunding.catarse.me/imprensa')
-    get '/assets' => redirect('https://crowdfunding.catarse.me/assets')
-    get '/guides' => redirect('http://fazum.catarse.me/guia-financiamento-coletivo')
+    get '/press' => redirect('https://test.trendnotion.com/imprensa')
+    get '/assets' => redirect('https://test.trendnotion.com/assets')
+    get '/guides' => redirect('http://fazum.trendnotion.com/guia-financiamento-coletivo')
     get '/new-admin' => 'high_voltage/pages#show', id: 'new_admin'
     get '/explore' => 'high_voltage/pages#show', id: 'explore'
-    get '/team' => redirect('https://crowdfunding.catarse.me/nosso-time')
-    get '/about' => redirect('https://crowdfunding.catarse.me/quem-somos')
-    get '/flex' => redirect('http://crowdfunding.catarse.me')
+    get '/team' => redirect('https://test.trendnotion.com/nosso-time')
+    get '/about' => redirect('https://test.trendnotion.com/quem-somos')
+    get '/flex' => redirect('http://test.trendnotion.com')
     get '/projects_dashboard' => 'high_voltage/pages#show', id: 'projects_dashboard'
 
     # Root path should be after channel constraints

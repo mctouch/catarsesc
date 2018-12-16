@@ -44,12 +44,12 @@ en:
       explore_categories:
         16:
           icon: https://s3.amazonaws.com/cdn.catarse/assets/icon-music.png
-          link: http://crowdfunding.catarse.me/financing-collective-music-independent
+          link: http://test.trendnotion.com/financing-collective-music-independent
           title: Cast your music on Catarse!
           cta: Learn how
         20:
           icon: https://s3.amazonaws.com/cdn.catarse/assets/icon-publicacoes.png
-          link: https://crowdfunding.catarse.me/publicacoes-independentes-financiamento-coletivo
+          link: https://test.trendnotion.com/publicacoes-independentes-financiamento-coletivo
           title: Launch your book or magazine on Catarse!
           cta: Learn how
       links:

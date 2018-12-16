@@ -59,7 +59,7 @@ const projectReportDisrespectRules = {
                     m('.fontsize-smaller.fontcolor-secondary',
                         [
                             'Todos os projetos no Catarse precisam respeitar nossas ',
-                            m('a.alt-link.fontweight-semibold[href=\'http://suporte.catarse.me/hc/pt-br/articles/202387638\'][target=\'_blank\']',
+                            m('a.alt-link.fontweight-semibold[href=\'http://suporte.trendnotion.com/hc/pt-br/articles/202387638\'][target=\'_blank\']',
                           'Diretrizes de Criação de Projetos'
                          ),
                             ', entre elas não oferecer recompensas proibidas, não abusar de SPAM, não usar cenas de sexo explícitas ou nudez sem autorização.'

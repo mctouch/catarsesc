@@ -72,7 +72,7 @@ const projectDataStats = {
                 ]),
                 m('.fontcolor-secondary.fontsize-smallest.u-margintop-20', [
                     'Os dados podem levar até 24 horas para serem atualizados.',
-                    m('a.alt-link', { href: 'https://suporte.catarse.me/hc/pt-br/articles/115002214463-projeto-ONLINE#visitante', target: '_blank' }, ' Saiba mais'),
+                    m('a.alt-link', { href: 'https://suporte.trendnotion.com/hc/pt-br/articles/115002214463-projeto-ONLINE#visitante', target: '_blank' }, ' Saiba mais'),
                     '.'
                 ])
             ])

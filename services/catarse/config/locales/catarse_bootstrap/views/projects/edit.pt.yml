@@ -82,19 +82,19 @@ pt:
       faq:
         1:
           title: 'Descrição e Título da recompensa:'
-          description: 'Ajudam os apoiadores a entenderem o que você está oferecendo. Seja objetivo e transparente! Saiba neste artigo <a href="http://suporte.catarse.me/hc/pt-br/articles/212191546-Recompensas-realizadores-#o-que-oferecer" target="_blank" class="alt-link">o que você pode e o que não pode oferecer</a>  e se inspire com <a href="http://blog.catarse.me/mais-de-30-ideias-de-recompensa-para-seu-crowdfunding/" target="_blank" class="alt-link">ideias de recompensas</a>.'
+          description: 'Ajudam os apoiadores a entenderem o que você está oferecendo. Seja objetivo e transparente! Saiba neste artigo <a href="http://suporte.trendnotion.com/hc/pt-br/articles/212191546-Recompensas-realizadores-#o-que-oferecer" target="_blank" class="alt-link">o que você pode e o que não pode oferecer</a>  e se inspire com <a href="http://blog.trendnotion.com/mais-de-30-ideias-de-recompensa-para-seu-crowdfunding/" target="_blank" class="alt-link">ideias de recompensas</a>.'
         2:
           title: 'Valor da recompensa:'
-          description: 'Indica com quanto o apoiador deve contribuir para receber a recompensa. Procure ofertar um valor justo e realista. Para te ajudar a definir esses valores, recomendamos a <a href="http://blog.catarse.me/meta-crowdfunding-calculadora-orcamento/" target="_blank" class="alt-link">Calculadora de Orçamento</a>.'
+          description: 'Indica com quanto o apoiador deve contribuir para receber a recompensa. Procure ofertar um valor justo e realista. Para te ajudar a definir esses valores, recomendamos a <a href="http://blog.trendnotion.com/meta-crowdfunding-calculadora-orcamento/" target="_blank" class="alt-link">Calculadora de Orçamento</a>.'
         3:
           title: 'Previsão de entrega:'
           description: 'Indica quando o apoiador irá receber a recompensa escolhida. Cuidado ao definir essa data para não frustrar seus apoiadores. Na dúvida, seja conservador nos prazos.'
         4:
           title: 'Tipo de entrega:'
-          description: 'Como será o envio da recompensa e quanto irá custar para o apoiador. Caso você adicione um valor de frete, ele será adicionado quando o apoiador selecionar a recompensa e a localidade. <a href="http://blog.catarse.me/o-calculo-de-envio-de-recompensas-financiamento-coletivo/" target="_blank" class="alt-link">Saiba mais</a>.'
+          description: 'Como será o envio da recompensa e quanto irá custar para o apoiador. Caso você adicione um valor de frete, ele será adicionado quando o apoiador selecionar a recompensa e a localidade. <a href="http://blog.trendnotion.com/o-calculo-de-envio-de-recompensas-financiamento-coletivo/" target="_blank" class="alt-link">Saiba mais</a>.'
         5:
           title: 'Número de recompensas:'
-          description: 'Você também pode Limitar uma recompensa para um determinado número de apoios e mudar a ordem que as recompensas aparecem em seu projeto. <a href="http://suporte.catarse.me/hc/pt-br/articles/212191546-tudo-sobre-RECOMPENSAS#como-editar" target="_blank" class="alt-link">Saiba mais</a>.'
+          description: 'Você também pode Limitar uma recompensa para um determinado número de apoios e mudar a ordem que as recompensas aparecem em seu projeto. <a href="http://suporte.trendnotion.com/hc/pt-br/articles/212191546-tudo-sobre-RECOMPENSAS#como-editar" target="_blank" class="alt-link">Saiba mais</a>.'
       minimum_value_title: 'Para R$ %{minimum_value} ou mais'
       minimum_value_subscription_title: 'R$ %{minimum_value} por mês'
       paid_contributors: '%{count} apoiadores'
@@ -144,19 +144,19 @@ pt:
     dashboard_surveys:
       title: Questionários
       subtitle: 'Confirme o endereço de entrega dos seus apoiadores e faça outras perguntas relacionadas às suas recompensas'
-      help_link: 'Aprenda como usar os <a href="https://suporte.catarse.me/hc/pt-br/articles/115003402146-Question%C3%A1rios-Como-envi%C3%A1-los-aos-seus-apoiadores" target="_blank" class="alt-link">Questionários na gestão de recompensas!</a>'
+      help_link: 'Aprenda como usar os <a href="https://suporte.trendnotion.com/hc/pt-br/articles/115003402146-Question%C3%A1rios-Como-envi%C3%A1-los-aos-seus-apoiadores" target="_blank" class="alt-link">Questionários na gestão de recompensas!</a>'
       online_explanation: ' Como o seu projeto ainda não foi finalizado, você só pode enviar questionários para apoiadores de recompensas esgotadas. Após a finalização do projeto, você poderá enviar questionários a todos os apoiadores.'
       create_survey: Criar questionário
     dashboard_fiscal:
       title: Documentos Fiscais
       subtitle: 'Baixe os documentos fiscais relacionados a sua arrecadação.'
-      help_link: 'Se tiver dúvida com relação à tributação, consulte o nosso Artigo sobre a <a href="http://fazum.catarse.me/manual-tributacao-realizadores" target="_blank" class="alt-link">Tributação para Realizadores</a>'
+      help_link: 'Se tiver dúvida com relação à tributação, consulte o nosso Artigo sobre a <a href="http://fazum.trendnotion.com/manual-tributacao-realizadores" target="_blank" class="alt-link">Tributação para Realizadores</a>'
       nodoc_explanation: ' Você terá acesso aos documentos fiscais assim que seu projeto for encerrado e financiado com sucesso.'
       nodoc_explanation_sub: ' Você terá acesso aos documentos fiscais mensalmente.'
       doc_download: 'Baixar documentos'
       doc_download_explanation: ' Como na legislação vigente não está formalizado o Financiamento Coletivo, <b>sempre recomendamos que o realizador consulte um contador ou empresa de contabilidade antes de formalizar o recebimento do dinheiro arrecadado</b> para tomar uma decisão informada sobre qual modalidade mais se aproxima da relação entre seu projeto e seus apoiadores.'
     dashboard_contribution_reports:
-      help_link: 'Aprenda a usar o <a href="https://suporte.catarse.me/hc/pt-br/articles/115003361423-Relat%C3%B3rio-de-apoios" target="_blank" class="alt-link">Relatório de apoios!</a>'
+      help_link: 'Aprenda a usar o <a href="https://suporte.trendnotion.com/hc/pt-br/articles/115003361423-Relat%C3%B3rio-de-apoios" target="_blank" class="alt-link">Relatório de apoios!</a>'
       title: 'Relatório de apoios'
       subtitle_html: 'Acompanhe os apoios feitos para sua campanha e gerencie a entrega de recompensas.'
     dashboard_user_settings:
@@ -294,7 +294,7 @@ pt:
       goal_hint: 'Quanto você precisa arrecadar? Defina uma meta coerente com o que seu projeto propõe. Não esqueça de incluir as taxas administrativas em seu cálculo.'
       goal_taxes_link: 'Entenda as taxas do Catarse'
       goal_taxes_label: 'Taxas do Catarse'
-      goal_taxes_watch_video_html: '<a class="fontsize-small" href="http://fazum.catarse.me/agradecimento-video-tutorial-orcamento-basico" target="_blank">Assista nossa <span class="fontweight-bold">vídeo-aula Orçamento Básico</span></a>'
+      goal_taxes_watch_video_html: '<a class="fontsize-small" href="http://fazum.trendnotion.com/agradecimento-video-tutorial-orcamento-basico" target="_blank">Assista nossa <span class="fontweight-bold">vídeo-aula Orçamento Básico</span></a>'
       goal_aon_taxes_hint: 'É o valor que será descontado da sua arrecadação ao final da campanha, referente aos serviços do Catarse e do meio de pagamento. Se o seu projeto atingir ou ultrapassar a meta, serão cobrados 13% do total arrecadado ao final da campanha. Caso o seu projeto não atinja a meta, todo o dinheiro apoiado será devolvido aos seus apoiadores após o término da campanha, sem custo nenhum a você. É Tudo ou Nada!
 '
       goal_flex_taxes_hint: 'É o valor que será descontado da sua arrecadação ao final da campanha, referente aos serviços do Catarse e do meio de pagamento. Serão cobrados 13% do total arrecadado ao final da campanha, independente se a meta for atingida ou não.'
@@ -314,7 +314,7 @@ pt:
       description_label: 'Descrição do projeto'
       description_hint: 'Fale com paixão e clareza sobre o que será realizado. Esclareça possíveis dúvidas sobre como o dinheiro será utilizado, quem está por trás do projeto, como e quando o projeto será entregue. Transparência atrai mais apoiadores. Lembre-se: seu projeto será acessado por pessoas comuns que decidirão se querem ou não apoiar seu projeto. Capriche!'
       description_alert: '<span class="fa fa-fw fa-lightbulb-o"></span> Saiba como <a class="alt-link" href="https://catarse.attach.io/BJmQVOiR" target="blank"> criar uma descrição cativante!</a>'
-      description_video_alert: '<span class="fa fa-lightbulb-o"></span> Saiba como <a href="https://catarse.attach.io/BJmQVOiR" target="_blank" class="alt-link">criar uma descrição cativante</a> e veja exemplos de <a href="http://crowdfunding.catarse.me/videomakers?ref=ctrse_dashboard_video" target="_blank">vídeos de sucesso</a> no Catarse!'
+      description_video_alert: '<span class="fa fa-lightbulb-o"></span> Saiba como <a href="https://catarse.attach.io/BJmQVOiR" target="_blank" class="alt-link">criar uma descrição cativante</a> e veja exemplos de <a href="http://test.trendnotion.com/videomakers?ref=ctrse_dashboard_video" target="_blank">vídeos de sucesso</a> no Catarse!'
     dashboard_reward:
       submit: "Salvar"
       add_reward: "Adicionar recompensa"
@@ -366,7 +366,7 @@ pt:
     dashboard_budget:
       submit: Salvar
       budget_label: "Orçamento do projeto"
-      budget_alert: '<span class="fa fa-fw fa-lightbulb-o"></span>Veja dicas de como<a class="alt-link" href="http://fazum.catarse.me/agradecimento-video-tutorial-orcamento-basico?ref=ctrse_dashboard" target="_blank"> determinar a meta de seu projeto!</a>
+      budget_alert: '<span class="fa fa-fw fa-lightbulb-o"></span>Veja dicas de como<a class="alt-link" href="http://fazum.trendnotion.com/agradecimento-video-tutorial-orcamento-basico?ref=ctrse_dashboard" target="_blank"> determinar a meta de seu projeto!</a>
 '
     dashboard_card:
       submit: Salvar
@@ -381,7 +381,7 @@ pt:
       submit: Salvar
       video_label: 'Vídeo do projeto'
       video_hint: 'Link do Vimeo ou Youtube. Esse é o vídeo principal da sua campanha.'
-      video_alert: '<span class="fa fa-fw fa-lightbulb-o"></span>Veja exemplos de <a class="alt-link" href="http://crowdfunding.catarse.me/videomakers?ref=ctrse_dashboard_video" target="_blank"> vídeos de sucesso no Catarse!</a>'
+      video_alert: '<span class="fa fa-fw fa-lightbulb-o"></span>Veja exemplos de <a class="alt-link" href="http://test.trendnotion.com/videomakers?ref=ctrse_dashboard_video" target="_blank"> vídeos de sucesso no Catarse!</a>'
       aon:
         card_label: "Vídeo"
         video_url: "Vídeo do projeto"
@@ -431,7 +431,7 @@ pt:
             label: 'Reembolsado'
             text: 'Apoios feitos com cartão de crédito: o valor já foi estornado no cartão utilizado pelo apoiador e deve aparecer como crédito em até 2 faturas. <br/>
                    Apoios feitos com boleto bancário: o valor já foi transferido para o SALDO do apoiador para que ele realize o saque. <br/>
-                   <a href="http://suporte.catarse.me/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos" target="blank">(saiba mais)</a>'
+                   <a href="http://suporte.trendnotion.com/hc/pt-br/articles/202365507-Regras-e-funcionamento-dos-reembolsos-estornos-cancelamentos" target="blank">(saiba mais)</a>'
           paid:
             label: 'Reembolso não iniciado'
             text: 'Apoiador ainda não forneceu dados bancários para o Catarse efetuar o reembolso ou os dados fornecidos estão incorretos.'
@@ -463,7 +463,7 @@ pt:
         icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c350c5e7d136a016bc34a4_transfer-ok-icon.png'
         title: 'Transferência bancária em andamento'
         text: 'A transferência dos R$%{total_amount} será feita na conta do Banco %{bank_name}, Agência: %{agency}, Conta: %{account}. Caso haja qualquer problema, entraremos em contato com você pelo email %{user_email}.<br/><br/>
-<a href="http://fazum.catarse.me/calculadora-repasse" target="blank">Veja aqui</a> como calcular a data em que o dinheiro deverá entrar na sua conta!'
+<a href="http://fazum.trendnotion.com/calculadora-repasse" target="blank">Veja aqui</a> como calcular a data em que o dinheiro deverá entrar na sua conta!'
       error_account:
         icon: 'https://daks2k3a4ib2z.cloudfront.net/54b440b85608e3f4389db387/56c350fabfc50aef5095c67d_transfer-pending-icon.png'
         title: 'Transferência bancária pendente'

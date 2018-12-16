@@ -20,7 +20,7 @@ const projectSuccessfulProcessing = {
                         m('p.fontsize-base', [
                             m('span.fontweight-semibold', args.project().user.name),
                             I18n.t('text', I18nScope()),
-                            m('a.alt-link.fontweight-semibold[href=\'https://suporte.catarse.me/hc/pt-br/articles/217916143\'][target=\'_blank\']', 
+                            m('a.alt-link.fontweight-semibold[href=\'https://suporte.trendnotion.com/hc/pt-br/articles/217916143\'][target=\'_blank\']', 
                                 I18n.t('text_link', I18nScope())
                             )
                         ])

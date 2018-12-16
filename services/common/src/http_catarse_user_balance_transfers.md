@@ -9,7 +9,7 @@ List all user balance transfers requests.
 ### example request
 
 ```curl
-curl -X GET 'https://api.catarse.me/user_balance_transfers' \
+curl -X GET 'https://api.trendnotion.com/user_balance_transfers' \
   -H 'authorization: Bearer API_KEY' \
   -H 'cache-control: no-cache'
 ```

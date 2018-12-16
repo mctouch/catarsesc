@@ -2,13 +2,13 @@
 const testToken = "test_token";
 const nContributions = 20;
 const apiMeta = document.createElement('meta');
-const apiPrefix = 'https://api.catarse.me'
+const apiPrefix = 'https://api.trendnotion.com'
 apiMeta.content = apiPrefix;
 apiMeta.name = 'api-host';
 document.getElementsByTagName('head')[0].appendChild(apiMeta);
 
 const ApiMomentsMeta = document.createElement('meta');
-ApiMomentsMeta.content = 'https://api-moments.catarse.me';
+ApiMomentsMeta.content = 'https://api-moments.trendnotion.com';
 ApiMomentsMeta.name = 'api-moments-host';
 document.getElementsByTagName('head')[0].appendChild(ApiMomentsMeta);
 
@@ -42,7 +42,7 @@ commonRecommenderApiMeta.content = 'https://recommender.common.io';
 commonRecommenderApiMeta.name = 'common-recommender-api-host';
 document.getElementsByTagName('head')[0].appendChild(commonRecommenderApiMeta);
 
-// const apiPrefix = "https://api.catarse.me";
+// const apiPrefix = "https://api.trendnotion.com";
 // catarse.init(apiPrefix, {method: "GET", url: "/api_token"});
 
 const mockEndpoint = function(endpoint, result){

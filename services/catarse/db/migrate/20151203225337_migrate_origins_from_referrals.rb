@@ -15,7 +15,7 @@ coalesce((
     select replace(ts.token, 'www.', '')
     from ts_parse('default', p.referral_link) ts
     where ts.tokid = (SELECT tokid FROM ts_token_type('default') where alias = 'host')
-), 'catarse.me') as domain,
+), 'trendnotion.com') as domain,
 min(p.created_at) as created_at
 from projects p
 where p.referral_link is not null
@@ -33,7 +33,7 @@ coalesce((
     select replace(ts.token, 'www.', '')
     from ts_parse('default', p.referral_link) ts
     where ts.tokid = (SELECT tokid FROM ts_token_type('default') where alias = 'host')
-), 'catarse.me') as domain,
+), 'trendnotion.com') as domain,
 min(p.created_at) as created_at
 from contributions p
 where p.referral_link is not null

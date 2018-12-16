@@ -778,7 +778,7 @@ const
             permalink = project.permalink;
         }
 
-        return `https://www.catarse.me/${permalink}`;
+        return `https://www.trendnotion.com/${permalink}`;
     },
     isHome = () => {
         const path = window.location.pathname;

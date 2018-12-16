@@ -16,32 +16,32 @@ const footer = {
                                                 m('.footer-full-signature-text.fontsize-small',
                                                     'Bem-vindo'
                                                 ),
-                                                m('a.link-footer[href=\'http://crowdfunding.catarse.me/quem-somos?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'http://test.trendnotion.com/quem-somos?ref=ctrse_footer\']',
                                                     ' Quem Somos'
                                                 ),
-                                                m('a.link-footer[href=\'http://crowdfunding.catarse.me/paratodos?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'http://test.trendnotion.com/paratodos?ref=ctrse_footer\']',
                                                     ' Como funciona'
                                                 ),
-                                                m('a.link-footer[href=\'http://blog.catarse.me\']',
+                                                m('a.link-footer[href=\'http://blog.trendnotion.com\']',
                                                     ' Blog'
                                                 ),
-                                                m(`a.link-footer[href=\'https://www.catarse.me/${window.I18n.locale}/team?ref=ctrse_footer\']`,
+                                                m(`a.link-footer[href=\'https://www.trendnotion.com/${window.I18n.locale}/team?ref=ctrse_footer\']`,
                                                     [
                                                         ' Nosso time ',
                                                         m.trust('&lt;'),
                                                         '3'
                                                     ]
                                                 ),
-                                                m(`a.link-footer[href=\'https://www.catarse.me/${window.I18n.locale}/press?ref=ctrse_footer\']`,
+                                                m(`a.link-footer[href=\'https://www.trendnotion.com/${window.I18n.locale}/press?ref=ctrse_footer\']`,
                                                     ' Imprensa'
                                                 ),
-                                                m('a.u-marginbottom-30.link-footer[href=\'http://ano.catarse.me/2017?ref=ctrse_footer\']',
+                                                m('a.u-marginbottom-30.link-footer[href=\'http://ano.trendnotion.com/2017?ref=ctrse_footer\']',
                                                     ' Retrospectiva 2017'
                                                 ),
                                                 m('.footer-full-signature-text.fontsize-small',
                                                     'Redes Sociais'
                                                 ),
-                                                m('a.link-footer[href=\'http://facebook.com/catarse.me\']',
+                                                m('a.link-footer[href=\'http://facebook.com/trendnotion.com\']',
                                                     [
                                                         m('span.fa.fa-facebook-square.fa-lg'),
                                                         m.trust('&nbsp;&nbsp;'),
@@ -76,33 +76,33 @@ const footer = {
                                                 m('.footer-full-signature-text.fontsize-small',
                                                     'Ajuda'
                                                 ),
-                                                m('a.link-footer[href=\'http://suporte.catarse.me?ref=ctrse_footer/\']',
+                                                m('a.link-footer[href=\'http://suporte.trendnotion.com?ref=ctrse_footer/\']',
                                                     ' Central de Suporte'
                                                 ),
                                                 h.getUser() ?
-                                                    m('a.link-footer[href=\'https://suporte.catarse.me/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.catarse.me%2Fhc%2Fpt-br%2Frequests%2Fnew&locale=19\'][target="_BLANK"]',
+                                                    m('a.link-footer[href=\'https://suporte.trendnotion.com/hc/pt-br/signin?return_to=https%3A%2F%2Fsuporte.trendnotion.com%2Fhc%2Fpt-br%2Frequests%2Fnew&locale=19\'][target="_BLANK"]',
                                                       ' Contato'
                                                      )
                                                     :
-                                                    m('a.link-footer[href=\'http://suporte.catarse.me/hc/pt-br/requests/new\'][target="_BLANK"]',
+                                                    m('a.link-footer[href=\'http://suporte.trendnotion.com/hc/pt-br/requests/new\'][target="_BLANK"]',
                                                       ' Contato'
                                                      ),
                                                 m('a.link-footer[href=\'https://www.ofinanciamentocoletivo.com.br/?ref=ctrse_footer\']',
                                                   ' Escola Catarse'
                                                  ),
-                                                m('a.link-footer[href=\'http://crowdfunding.catarse.me/nossa-taxa?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'http://test.trendnotion.com/nossa-taxa?ref=ctrse_footer\']',
                                                   ' Nossa Taxa'
                                                  ),
-                                                m('a.link-footer[href=\'http://pesquisa.catarse.me/\']',
+                                                m('a.link-footer[href=\'http://pesquisa.trendnotion.com/\']',
                                                   ' Retrato FC Brasil 2013/2014'
                                                  ),
-                                                m('a.link-footer[href=\'http://suporte.catarse.me/hc/pt-br/articles/115002214043-Responsabilidades-e-Seguran%C3%A7a?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'http://suporte.trendnotion.com/hc/pt-br/articles/115002214043-Responsabilidades-e-Seguran%C3%A7a?ref=ctrse_footer\']',
                                                   ' Responsabilidades e Segurança'
                                                  ),
-                                                m('a.link-footer[href=\'https://crowdfunding.catarse.me/legal/termos-de-uso\'][target="_BLANK"]',
+                                                m('a.link-footer[href=\'https://test.trendnotion.com/legal/termos-de-uso\'][target="_BLANK"]',
                                                   ' Termos de uso'
                                                  ),
-                                                m('a.link-footer[href=\'https://crowdfunding.catarse.me/legal/politica-de-privacidade\'][target="_BLANK"]',
+                                                m('a.link-footer[href=\'https://test.trendnotion.com/legal/politica-de-privacidade\'][target="_BLANK"]',
                                                   ' Política de privacidade'
                                                  )
                                             ]
@@ -115,13 +115,13 @@ const footer = {
                                                 m(`a.link-footer[href=\'/${window.I18n.locale}/start?ref=ctrse_footer\']`,
                                                     ' Comece seu projeto'
                                                 ),
-                                                m('a.link-footer[href=\'http://crowdfunding.catarse.me/financiamento-coletivo-musica-independente?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'http://test.trendnotion.com/financiamento-coletivo-musica-independente?ref=ctrse_footer\']',
                                                     ' Música no Catarse'
                                                 ),
-                                                m('a.link-footer[href=\'https://crowdfunding.catarse.me/publicacoes-independentes-financiamento-coletivo?ref=ctrse_footer\']',
+                                                m('a.link-footer[href=\'https://test.trendnotion.com/publicacoes-independentes-financiamento-coletivo?ref=ctrse_footer\']',
                                                     ' Publicações Independentes'
                                                 ),
-                                                m('a.u-marginbottom-30.link-footer[href=\'https://crowdfunding.catarse.me/assinaturas?ref=ctrse_footer\']',
+                                                m('a.u-marginbottom-30.link-footer[href=\'https://test.trendnotion.com/assinaturas?ref=ctrse_footer\']',
                                                     [
                                                         'Catarse Assinaturas',
                                                         m.trust('&nbsp;'),
@@ -136,10 +136,10 @@ const footer = {
                                                 m(`a.link-footer[href=\'/${window.I18n.locale}/explore?ref=ctrse_footer\']`,
                                                     ' Explore projetos'
                                                 ),
-                                                m('a.w-hidden-main.w-hidden-medium.w-hidden-small.link-footer[href=\'http://blog.catarse.me?ref=ctrse_footer\']',
+                                                m('a.w-hidden-main.w-hidden-medium.w-hidden-small.link-footer[href=\'http://blog.trendnotion.com?ref=ctrse_footer\']',
                                                     ' Blog'
                                                 ),
-                                                m('a.w-hidden-main.w-hidden-medium.w-hidden-small.link-footer[href=\'http://suporte.catarse.me/hc/pt-br/requests/new\']',
+                                                m('a.w-hidden-main.w-hidden-medium.w-hidden-small.link-footer[href=\'http://suporte.trendnotion.com/hc/pt-br/requests/new\']',
                                                     ' Contato'
                                                 ),
                                                 m(`a.w-hidden-tiny.link-footer[href=\'/${window.I18n.locale}/explore?filter=score&ref=ctrse_footer\']`,

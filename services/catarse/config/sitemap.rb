@@ -55,9 +55,9 @@ SitemapGenerator::Sitemap.create do
   add '/privacy-policy'
 
   # Outros sites
-  add '/', host: 'http://suporte.catarse.me/'
-  add '/', host: 'http://pesquisa.catarse.me/'
-  add '/guia-financiamento-coletivo', host: 'http://fazum.catarse.me'
+  add '/', host: 'http://suporte.trendnotion.com/'
+  add '/', host: 'http://pesquisa.trendnotion.com/'
+  add '/guia-financiamento-coletivo', host: 'http://fazum.trendnotion.com'
 
   # Projetos
   Project.where("permalink in ('mola','alendadoheroi') or state in ('online','waiting_funds') or expires_at+'7 days'::interval > now() or (state='successful' and (mode='aon' or goal*0.50<(select sum(p.value) from payments p join contributions c on c.id=p.contribution_id and p.state='paid' and c.project_id=projects.id)))").update_ordered.each do |project|
