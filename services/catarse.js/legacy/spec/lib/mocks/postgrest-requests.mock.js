@@ -42,8 +42,15 @@ commonRecommenderApiMeta.content = 'https://recommender.common.io';
 commonRecommenderApiMeta.name = 'common-recommender-api-host';
 document.getElementsByTagName('head')[0].appendChild(commonRecommenderApiMeta);
 
+<<<<<<< HEAD
 // const apiPrefix = "https://api.trendnotion.com:3000";
 // catarse.init(apiPrefix, {method: "GET", url: "/api_token"});
+=======
+const commonProxyApiMeta = document.createElement('meta');
+commonProxyApiMeta.content = 'https://proxy.common.io';
+commonProxyApiMeta.name = 'common-proxy-api-host';
+document.getElementsByTagName('head')[0].appendChild(commonProxyApiMeta);
+>>>>>>> 85b3ff65b0c1c81b1a1da5eddbf2ea0188e5739e
 
 const mockEndpoint = function(endpoint, result){
   return jasmine.Ajax.stubRequest(
