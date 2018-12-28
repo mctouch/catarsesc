@@ -30,7 +30,7 @@ Catarse::Application.configure do
   # This option may cause significant delays in view rendering with a large
   # number of complex assets.
   config.assets.debug = false
-
+  config.active_record.raise_in_transactional_callbacks = true
   # mailcatcher configs
   config.action_mailer.delivery_method = :letter_opener
 
@@ -38,5 +38,8 @@ Catarse::Application.configure do
 
   config.log_level = :debug
 
+  config.web_console.whitelisted_ips = '10.0.1.1'
+
   config.assets.digest = false
 end
+

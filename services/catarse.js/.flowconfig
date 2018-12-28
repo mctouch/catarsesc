@@ -5,7 +5,7 @@
 .*/spec/.*
 .*/compiled/.*
 
-[include]
+[include]c
 
 [libs]
 
